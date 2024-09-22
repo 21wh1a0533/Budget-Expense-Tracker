@@ -1,4 +1,4 @@
-# Spending Tracker
+# Budget Expense Tracker
 
 Download the application [here](https://github.com/Akshaya21513/Spending-Tracker/releases).
 
